@@ -219,7 +219,7 @@ class Dish {
 
             // random number 1-5
             let filename = 'demo.mp4';
-            video.src = `./videos/${filename}`;
+            video.src = `https://alicunde.github.io/Videoconference-Dish-CSS-JS/videos/${filename}`;
             video.autoplay = true;
             video.loop = true;
             video.muted = true;
